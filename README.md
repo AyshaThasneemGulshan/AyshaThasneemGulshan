@@ -1,89 +1,94 @@
-<h1 align="center">Hi, I'm Aysha Thasneem Gulshan! 👋</h1>
+<h1 align="center">Hi, I'm Aysha Thasneem Gulshan 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/ayshathasneem">Software Developer</a> •
-  <a href="https://www.linkedin.com/in/ayshathasneemgulshan/">Automotive Infotainment Engineer</a> •
-  AI/ML Beginner •
-  M.S. Student in Computer and Information Science
+  <a href="https://github.com/ayshathasneem">Software Developer</a> • 
+  <a href="https://www.linkedin.com/in/ayshathasneemgulshan/">Automotive Infotainment Engineer</a> • 
+  Embedded System • 
+  AI/ML Enthusiast • 
+  M.S. in Computer and Information Science
+</p>
+
+<p align="center">
+  Passionate about building intelligent systems, optimizing embedded platforms, and delivering robust user experiences at the intersection of mobile, cloud, and automotive domains.
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Technical Skills
 
-#### 👩‍💻 Programming Languages
-- **Python**, **Java**, **Kotlin**, **C**, **C++**, **Android (Java/Kotlin)**
+### 🔹 Programming Languages & Mobile Development
+- **Kotlin**, **Java**, **Python**, **C**, **C++**, **Android (Jetpack Compose, MVVM, XML)**
 
-#### 📦 AI/ML Frameworks & Data Science
+### 🔹 AI/ML & Data Science
 - **TensorFlow**, **PyTorch**, **Scikit-learn**, **OpenCV**, **NumPy**, **Pandas**
+- **Data Visualization:** Tableau, Power BI, matplotlib, seaborn
 
-#### 📊 Data Visualization
-- **Tableau**, **Power BI**, **matplotlib**, **seaborn**
-
-#### ☁️ Cloud Platforms & Tools
-- **AWS** (Lambda, S3, EC2, Rekognition, DynamoDB, Lex, API Gateway, SES)  
+### 🔹 Cloud Platforms
+- **AWS** (Lambda, EC2, Rekognition, DynamoDB, Lex, API Gateway, S3, SES)  
 - **Microsoft Azure**, **Google Cloud Platform (GCP)**
 
-#### 🧪 Testing & Debugging
-- **Junit**, **Mockito**, **Logcat**, **Matrix**, **JIRA**
+### 🔹 Version Control & Build Tools
+- **Git**, **GitHub**, **Bitbucket**, **SVN**, **Gradle**
 
-#### 🔧 CI/CD & Version Control
-- **Git**, **GitHub**, **Bitbucket**, **Jenkins**, **SVN**, **Gradle**
+### 🔹 CI/CD & Automation
+- **Jenkins**, **GitHub Actions**, **Automated Testing**, **Agile DevOps Pipelines**
 
-#### 🗄️ Databases
+### 🔹 Databases
 - **SQLite**, **PostgreSQL**, **MySQL**
 
-#### 🚗 Automotive Technologies
-- **CAN Bus**, **ADAS**, **IVI Systems**, **AOSP**, **AAOS**, **ASPICE**, **AUTOSAR**, **Embedded C/C++**, **Qualcomm SoCs**
+### 🔹 Testing & Debugging
+- **Junit**, **Mockito**, **Logcat**, **Matrix**, **JIRA**
+
+### 🔹 Automotive Technologies
+- **IVI Systems**, **CAN Bus**, **ADAS**, **AOSP**, **AAOS**, **AUTOSAR**, **ASPICE**, **Embedded C/C++**, **Qualcomm SoCs**
 
 ---
 
-## 👨‍💻 Featured Projects
+## 🚀 Highlighted Projects
 
-### 📱 Android Projects
-- [Android Speech to Text Application](https://github.com/AyshaThasneemGulshan/SpeechToText)
+### 📱 Android
+- 🔗 [Speech to Text Application](https://github.com/AyshaThasneemGulshan/SpeechToText)  
+  *Real-time voice-to-text conversion app using Android SDK and Jetpack components.*
 
 ### 🌐 Web Development
-- [Focus Finds – E-Commerce Web Application](https://github.com/madhuripatil09/FocusFinds)
+- 🔗 [Focus Finds – E-Commerce Platform](https://github.com/madhuripatil09/FocusFinds)  
 
-### ☁️ AWS/Cloud-Based Projects
-- [Dining Concierge Chatbot (AWS Lambda + Lex + DynamoDB)](https://github.com/AyshaThasneemGulshan/Dining-Concierge-chatbot-)
+### ☁️ Cloud & AI Projects
+- 🔗 [Dining Concierge Chatbot (AWS)](https://github.com/AyshaThasneemGulshan/Dining-Concierge-chatbot-)  
+  *Serverless chatbot with AWS Lex, Lambda, and DynamoDB.*
+
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🏢 Hyundai Mobis – IVI Engineering Intern  
-*May 2024 – August 2024*
+### 🔧 **Hyundai Mobis** – IVI Engineering Intern  
+*January 2025 – April 2025*  
+- Enhanced broadcast and CCS modules using Kotlin and Jetpack Compose  
+- Achieved a 30% improvement in system responsiveness  
+- Debugged CAN logs and collaborated cross-functionally in Agile sprints
 
-- Developed and optimized Broadcast and CCS modules using Kotlin, MVVM, and Jetpack Compose  
-- Debugged and analyzed logs using CAN/LogFilter; improved system responsiveness by 30%  
-- Collaborated across systems and UX teams in Agile/Scrum environment
-
-### 🏢 Quest Global Engineering Services – Senior Software Developer  
-*2017 – 2023*
-
-- Delivered memory-optimized IVI modules (radio features) on Qualcomm SoCs in Android  
-- Ensured ASPICE compliance; built Jenkins-based CI/CD pipelines and tested with TDD  
-- Enhanced UX responsiveness and boot-time efficiency for infotainment products
+### 🔧 **Quest Global Engineering Services** – Senior Software Developer  
+*January 2017 – April 2023*  
+- Engineered memory-optimized infotainment features for Qualcomm SoCs  
+- Delivered ASPICE-compliant modules with test-driven development and CI/CD pipelines  
+- Improved boot time and overall IVI system performance
 
 ---
 
 ## 📜 Certifications
 
-
-
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect!
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayshathasneemgulshan/)
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ayshathasneemg@gmail.com)
 
-<br/>
+<br/><br/>
 
 ---
 
 <p align="center">
-  💻 Built with passion for Android, Automotive Systems, and AI. Always learning, always building.
+  ⚡ Always exploring. Always building. Let’s shape the future of intelligent mobility and smart systems together.
 </p>
